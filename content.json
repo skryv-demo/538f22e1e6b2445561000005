@@ -17,7 +17,15 @@
         "patient_niss": 12341234,
         "naam": "Cruise",
         "voornaam": "Tom",
-        "datum_van_de_eerste_insulinetoediening": "Wed Oct 09 2013 00:00:00 GMT+0200 (CEST)"
+        "datum_van_de_eerste_insulinetoediening": "Wed Oct 09 2013 00:00:00 GMT+0200 (CEST)",
+        "__comments__": [
+            {
+                "message": "Is this a correct NISS?",
+                "user": "test@skryv.com",
+                "created": "2014-06-04T13:48:57.927Z",
+                "on": "patient_niss"
+            }
+        ]
     },
     "datacollectie": {
         "algemeen": {
