@@ -7,26 +7,43 @@
         "geslacht": {
             "selectedChoice": "Man"
         },
-        "etniciteit_vader": {},
-        "etniciteit_moeder": {},
+        "etniciteit_vader": {
+            "selectedChoice": "Kaukasisch"
+        },
+        "etniciteit_moeder": {
+            "selectedChoice": "Kaukasisch"
+        },
         "geboortedatum": "Wed May 01 2002 00:00:00 GMT+0200 (CEST)",
         "patient_niss": 12341234,
         "naam": "Cruise",
-        "voornaam": "Tom"
+        "voornaam": "Tom",
+        "datum_van_de_eerste_insulinetoediening": "Wed Oct 09 2013 00:00:00 GMT+0200 (CEST)"
     },
     "datacollectie": {
         "algemeen": {
             "taalproblemen": {
                 "selectedChoices": {}
             },
-            "puberteitprepuberteit": {},
-            "insulineschema": {}
+            "puberteitprepuberteit": {
+                "selectedChoice": "Puberteit"
+            },
+            "insulineschema": {
+                "selectedChoice": "Individueel samengestelde mengsels toegediend 's morgens en 's avonds met occasioneel een extra toediening van snelle/ultrasnelle insuline"
+            },
+            "datum_van_de_meest_recente_consultatie": "Thu Dec 12 2013 00:00:00 GMT+0100 (CET)",
+            "de_patient_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false
         },
         "metingen": {
             "lengte": {},
-            "gewicht": {},
-            "systolische_bloeddruk": {},
-            "diastolische_bloeddruk": {}
+            "gewicht": {
+                "gewicht_kg": null
+            },
+            "systolische_bloeddruk": {
+                "systolische_bloeddruk_mmhg": 200
+            },
+            "diastolische_bloeddruk": {
+                "diastolische_bloeddruk_mmhg": 100
+            }
         },
         "screenings": {
             "coeliakie": {
